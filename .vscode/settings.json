@@ -51,6 +51,15 @@
         "condition_variable": "cpp",
         "mutex": "cpp",
         "clang-format.executable": "clang-format",
-        "clang-format.style": "Google"
+        "clang-format.style": "Google",
+        "any": "cpp",
+        "cstring": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "iomanip": "cpp",
+        "variant": "cpp"
     }
 }
